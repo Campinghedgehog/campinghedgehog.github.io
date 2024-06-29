@@ -22,6 +22,9 @@ title: campinghedgehog's campsite
 description: >- # this means to ignore newlines until "baseurl:"
   burnt marshmallows and canned soup
 url: "https://campinghedgehog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  email: campinghedgehog@gmail.com
+  name: Campinghedgehog
 
 
 # Build settings
@@ -30,6 +33,10 @@ minima:
   skin: dark
 plugins:
   - jekyll-feed
+  - jekyll-latex
+markdown: kramdown
+kramdown:
+  math_engine: katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
