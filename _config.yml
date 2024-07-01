@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   burnt marshmallows and canned soup
 url: "https://campinghedgehog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  #email: campinghedgehog@gmail.com
+  email: campinghedgehog@gmail.com
   name: Campinghedgehog
 
 
@@ -34,6 +34,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-latex
+  - jemoji
 markdown: kramdown
 kramdown:
   math_engine: katex
