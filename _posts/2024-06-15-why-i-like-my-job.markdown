@@ -113,9 +113,7 @@ Worked with solid engineers.
 
 4 out of 5 stars.
 
-That said, I promoted myself to customer yesterday.
-
-About time to close this somewhat uneventful chapter. Gradient of excitement points elsewhere.
+Though it was about time to close this somewhat uneventful chapter. Gradient of excitement points elsewhere.
 
 繼續煮飯 :rice_ball:
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
