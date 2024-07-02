@@ -37,7 +37,7 @@ The rest of Part 1 goes over methods for addressing the case where we don't have
 Methods include: Monte Carlo, TD(0), n-step TD, etc.
 
 All the methods are different sides of the same thing, varying in how far and how wide one looks in order to update the value or state-action function at a given state or state-action pair.
-Monte Carlo follows the policy until some terminal state, and then updates the state or state-action with the return observed; Monte Carlo methods go deepest with no width (it goes down only 1 path and looks at no other branching states on the way down). TD(0) on the other hand only goes 1-step deep; it updates the value estimates of states by the difference between the actual reward and estimated reward. Everything in between TD(0) and Monte Carlo are the n-step TD methods.
+Monte Carlo follows the policy until some terminal state, and then updates the state or state-action with the return observed; Monte Carlo methods go deepest with no width (it goes down only 1 path and looks at no other branching states on the way down). TD(0) on the other hand only goes 1-step deep; it updates the value estimates of states by the difference between the actual reward and estimated reward. Everything in between TD(0) and Monte Carlo are the n-step TD methods; $$n$$ seems to be a away to trade off bias for variance.
 
 The figure below summarises it well.
 
