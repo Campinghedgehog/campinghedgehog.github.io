@@ -109,11 +109,13 @@ Learned some stuff.
 
 Compensation is okay.[^12]
 
-Worked with solid engineers.
+Worked with solid engineers, worked for solid managers.[^13]
 
 4 out of 5 stars.
 
-Though it was about time to close this somewhat uneventful chapter. Gradient of excitement points elsewhere.
+That said, I promoted myself to customer just yesterday.
+
+Was about time to close this somewhat uneventful chapter. Gradient of excitement pointing elsewhere.
 
 繼續煮飯 :rice_ball:
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -128,3 +130,4 @@ Though it was about time to close this somewhat uneventful chapter. Gradient of 
 [^10]: not the rapper
 [^11]: 讓我煮飯!
 [^12]: More than Microsoft, Apple. Around the same or a little less than Google. Less than Facebook, Netflix, new FANGled startups, quant firms, NVIDIA (if you joined some years ago)
+[^13]: Not people managers, but great engineers turned managers out of necessity. Unfortunately, seems like these gems often choose to go back to being individual contributors (ICs) once orgs (and consequently intra-org politics) grow. 
