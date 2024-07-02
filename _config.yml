@@ -26,6 +26,7 @@ author:
   email: campinghedgehog@gmail.com
   name: Campinghedgehog
 
+google_analytics: "G-MJJPQJDKB8"
 
 # Build settings
 remote_theme: jekyll/minima
