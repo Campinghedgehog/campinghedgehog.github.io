@@ -6,6 +6,14 @@ categories:
 ---
 
 [Updated July 7, 2024]
+#### [IMPROVING GENERALIZATION IN META REINFORCE- MENT LEARNING USING LEARNED OBJECTIVES](https://arxiv.org/pdf/1910.04098)
+- parameterizes the objective function, instead of assuming a fixed one
+- samples into a replay buffer and trains off-policy
+- training loop now trains the critic, policy, then objective function, etc...
+    - the policy is backproped by the error between old policy and new one
+    - objective network needs to be able to be differentiated wrt to policy parameters
+    - for a sampled trajectory, the policy parameters are (temporarily) updated wrt the objective function until the end of the trajectory, where the critic is used to score the new policy, which is used as the objective function loss to back prop through the objective function network
+
 ## DeepSeek Papers
 - [DeepSeek LLM Scaling Open-Source Language Models with Longtermism](https://arxiv.org/pdf/2401.02954)
     - Chinese open-source LLM
