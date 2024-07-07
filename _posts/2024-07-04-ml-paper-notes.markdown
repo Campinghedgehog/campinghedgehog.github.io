@@ -5,8 +5,30 @@ date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
 
-[Updated July 4, 2024]
+[Updated July 7, 2024]
+## DeepSeek Papers
+- [DeepSeek LLM Scaling Open-Source Language Models with Longtermism](https://arxiv.org/pdf/2401.02954)
+    - Chinese open-source LLM
+    - investigates scaling laws, optimal batch sizes and learning rates given compute budget
+    - observes that data quality may affect scaling behavior
+- [DeepSeek-Coder: When the Large Language Model Meets Programming - The Rise of Code Intelligence](https://arxiv.org/pdf/2401.14196)
+    - pretrained with fill-in-the-middle, on top of next token prediction
+    - a lot of data cleaning and filtering (dedeplication, filtering out shit code that doesn't compile, bad formatting eg lines too long, data heavy files)
+    - DeepSeek model from previous paper trained on code data also showed improvement (DeepSeekCoder was only a little bit better at programming benchmarks, not as good as all others)
+        - seems like _ceteris paribus_ more compute is just better, which I guess isn't suprising
+        - original model was also trained on the 2T tokens, so I'm guessing something something conditional kolmogorov complexity something something..
+- [DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/pdf/2403.05525)
+    - "Our research reveals that maintaining a significant proportion of language data—specifically, at least 70%—is essential to preserve the integrity of language knowledge within the mode"
+    - "Nevertheless, compared to Large Language Models (LLMs), vision-language adaptors (e.g., a 2-layer MLP) have a significantly smaller parameter capacity. This limitation in model capacity restricts the capabilities that can be learned during this stage. A natural question arises: Can the law of data scaling be effective at this stage? To address this question, we conducted a simple experiment in Table 8. The results demonstrate that expanding the data scale at this stage does not provide benefits and may even lead to inferior performance."
+    - training with large proportion on just multimodal data lead to catastrophic forgetting, and degradation on language bench marks
+        - a lot of multimodal data have very simple language structure etc., inherent competition between multimodal and linguistic capabilities conjectured
+        - they interleave with language training
+    - seems like some variant of curriculum learning is still relevant to effective training of models
+- [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/pdf/2405.04434)
+    - Multihead latent attention (reduces KV cache, good performance), uses DeepSeekMOE
+    - online RL better than offline
 
+[Updated July 4, 2024]
 ### [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/pdf/2106.01345)
 ### [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039)
 - Throwing $$(a_t, s_t, r_{t+1}, ... )$$ sequences at transformers. Seems to work.
@@ -14,6 +36,7 @@ categories:
 
 
 ### [TRANSFORMERS ARE SAMPLE-EFFICIENT WORLD MODELS](https://arxiv.org/pdf/2209.00588)
+- really just this [World Models](https://arxiv.org/pdf/1803.10122) paper but with VQ-VAE and transformers instead of RNN
 - Policy is trained with the world model (VQ-VAE + Transformer)
 - First step is to gather experience following our policy and save it into a replay buffer (policy model conditioned on output of VQ-VAE)
 - Second is to take samples of length context length from the replay buffer and backprop errors through VQ-VAE and Transformer G (Transformer is conditioned on: latent vector, action, ...)
@@ -31,4 +54,30 @@ categories:
 - $$\mathscr{L}_{DPO}(\pi_\theta ; \pi_{ref}) = -\mathbb{E}_{(x,y_w,y_l) ~ D}\biggl [log \, \sigma \bigl(\beta \, log \frac{\pi_\theta(y_w | x)}{\pi_{ref}(y_w | x)} - \beta \, log \frac{\pi_\theta(y_l | x)}{\pi_{ref}(y_l | x)} \bigr )\biggr]$$
 - Does not require RL; RL is finicky. But requires paired data since no reward model
 - Seems like DPO doesn't work that well, at least in chatbot arenas, as of July 2024.
+
+## RLHF papers
+- LLMs
+    - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593)
+    - [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155) 
+    - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862) (Anthropic)
+
+- [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741)
+    - Instead of reward coming from environment, a reward model is fitted from human feed back.
+    - Works in Atari and open AI gym. For some games, the fitted reward model converged faster than direct reward (better shape of reward model)
+    - "Moreover, we show that collecting feed- back online improves the system’s performance and prevents it from exploiting weaknesses of the learned reward function."
+
+- [QUANTIFYING DIFFERENCES IN REWARD FUNCTIONS](https://arxiv.org/pdf/2006.13900)
+    - defines a pseudo-metric for reward functions
+
+- Early papers
+    - [Preference-Based Policy Learning](https://inria.hal.science/inria-00625001/PDF/Preference-based_Policy_Learning.pdf)
+    - [APRIL: Active Preference-learning based Reinforcement Learning](https://arxiv.org/pdf/1208.0984)
+    - [Programming by Feedback](https://inria.hal.science/hal-00980839/PDF/programming_by_feedback.pdf)
+    - [A Bayesian Approach for Policy Learning from Trajectory Preference Queries](https://papers.nips.cc/paper_files/paper/2012/file/16c222aa19898e5058938167c8ab6c57-Paper.pdf)
+    - [Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476)
+        - Like GANs but for RL
+    - [Deep Q-learning from Demonstrations](https://arxiv.org/pdf/1704.03732)
+        - Supervised pretraining on expert demonstration, then RL on environment collecting data in some replay buffer (policy is epsilon-greedy wrt Q), then sample from replay buffer and demonstrations again etc.
+    - [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/pdf/1603.00448)
+    - [Cooperative Inverse Reinforcement Learning](https://arxiv.org/pdf/1606.03137)
 
