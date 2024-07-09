@@ -1,9 +1,23 @@
 ---
 layout: post
-title:  "Collection of notes/summary on random ML papers" 
+title:  "Collection of notes/summary on random ML papers [Updated July 8, 2024]" 
 date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
+
+[Updated July 8, 2024]
+#### [Metric Flow Matching for Smooth Interpolations on the Data Manifold](https://arxiv.org/pdf/2405.14780)
+
+#### [Deep Learning as Ricci Flow](https://arxiv.org/pdf/2404.14265)
+- they took a test set, measured each sub layer, noticed curvature follows a ricci flow-ish schedule
+
+#### [Bayesian Flow Networks](https://arxiv.org/pdf/2308.07037)
+- not sure I quite understood this paper, but it seems like it's deforming some simple prior distribution, into one that maximizes compression, through bayesian updates. 
+- Seems like with a suitable prior, the bayesian updates are like taking a step with a natural gradient.
+- almost like a metric flow kind of thing, where a simple (spherical) distribution is deformed into a more complicated one
+
+#### [Deconstructing Denoising Diffusion Models for Self-Supervised Learning](https://arxiv.org/pdf/2401.14404v1)
+- Denoising auto-encoders aren't that different from diffusion, etc.
 
 [Updated July 7, 2024]
 #### [IMPROVING GENERALIZATION IN META REINFORCE- MENT LEARNING USING LEARNED OBJECTIVES](https://arxiv.org/pdf/1910.04098)
