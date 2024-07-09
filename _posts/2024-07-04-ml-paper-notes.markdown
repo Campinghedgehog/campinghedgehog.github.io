@@ -7,6 +7,7 @@ categories:
 
 [Updated July 8, 2024]
 #### [Metric Flow Matching for Smooth Interpolations on the Data Manifold](https://arxiv.org/pdf/2405.14780)
+- Like Conditional Flow Matching but with a metric dependent on the data
 
 #### [Deep Learning as Ricci Flow](https://arxiv.org/pdf/2404.14265)
 - they took a test set, measured each sub layer, noticed curvature follows a ricci flow-ish schedule
