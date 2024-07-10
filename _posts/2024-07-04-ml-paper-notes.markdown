@@ -1,16 +1,50 @@
 ---
 layout: post
-title:  "Collection of notes/summary on random ML papers [Updated July 8, 2024]" 
+title:  "Collection of notes/summary on random ML papers [Updated July 9, 2024]" 
 date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
+
+[Updated July 9, 2024]
+#### [TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING](https://arxiv.org/pdf/2309.17452)
+- used tools to sample trajectories from datasets using GPT-4
+- then imitation learning
+- eh
+
+#### [Program of Thoughts Prompting: Disentangling Computa- tion from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588)
+- clever way to try and separate reasoning and computation
+- chain of thought does both
+- python is pretty much english so they use a python, LLM generates python, runs it to get answer, and so on
+
+#### [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
+- "chain-of-thought prompting does not positively impact performance for small models, and only yields performance gains when used with models of ∼100B parameters"
+    - interesting, the deepseek-prover paper used chain of thought for a model with only 7B though
+
+## More DeepSeek papers
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)
+    - much larger corpus of math/code data, steeper learning curve during fine tuning
+    - introduces Group Relative Policy Optimization (GRPO)
+        - normal PPO requires a value model (critic) for estimating the baseline for the advantage function (for reducing variance without introducing bias, introduced in chapter 13 policy gradient chapter in the RL book)
+        - GRPO instead samples N different outputs from the old policy, and optmizes for the average PPO loss
+        - the advantage function is just the rewards normalized (subtract avg reward, divide by std dev of rewards)
+        - saves memory as there is no need for a value network anymore
+- [DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data](https://arxiv.org/pdf/2405.14333v1)
+    - data generation loop for formal proofs in lean
+        - model first fine-tuned on lean -> natural language pairs (MMA dataset)
+        - they gathered a large corpus of math problems in english
+        - use the model to automatically formalize into lean
+            - filter out those that proved False (had a contradiction)
+        - performed a model guided proof search for both the statement and its negation, until timeout
+        - finuned model on newly generated data, repeat
+    - pretty clever way of using human priors to guide its way through the very large space of possible proofs
+    - feels like more search + RAG could help
 
 [Updated July 8, 2024]
 #### [Metric Flow Matching for Smooth Interpolations on the Data Manifold](https://arxiv.org/pdf/2405.14780)
 - Like Conditional Flow Matching but with a metric dependent on the data
 
 #### [Deep Learning as Ricci Flow](https://arxiv.org/pdf/2404.14265)
-- they took a test set, measured each sub layer, noticed curvature follows a ricci flow-ish schedule
+- they took a test set, forward pass, measured each sub layer, noticed curvature follows a ricci flow-ish schedule
 
 #### [Bayesian Flow Networks](https://arxiv.org/pdf/2308.07037)
 - not sure I quite understood this paper, but it seems like it's deforming some simple prior distribution, into one that maximizes compression, through bayesian updates. 
