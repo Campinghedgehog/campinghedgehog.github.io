@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Collection of notes/summary on random ML papers [Updated July 9, 2024]" 
+title:  "Collection of notes/summary on random ML papers [Updated July 10, 2024]" 
 date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
+
+[Updated July 10, 2024]
+#### [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://arxiv.org/pdf/2306.15626)
+- introduces LeanDojo, a gym-like environment for lean
+- ReProver, a RAG premise selection, trained with contrastive loss
+- small model
 
 [Updated July 9, 2024]
 #### [TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING](https://arxiv.org/pdf/2309.17452)
