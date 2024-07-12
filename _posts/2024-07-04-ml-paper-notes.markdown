@@ -1,9 +1,34 @@
 ---
 layout: post
-title:  "Collection of notes/summary on random ML papers [Updated July 10, 2024]" 
+title:  "Collection of notes/summary on random ML papers [Updated July 11, 2024]" 
 date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
+
+[Updated July 11, 2024]
+#### [DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning](https://arxiv.org/pdf/2407.04078)
+- trained model to break down tasks into subtasks, generate and run code for each subtask, etc.
+- looks like also trajectory sampling + GPT-4
+- synthetic data with more step basically
+
+#### [MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning](https://arxiv.org/pdf/2405.07551)
+- generates code data with GPT-4, plugging errors back into GPT-4 if they appear
+- chain of thought pretraining in stage 1
+- in stage 2, train on cot + code data, masking out interpreter output tokens for the loss 
+- during inference, it gets to use an interpreter
+
+#### [Lean Workbook: A large-scale Lean problem set formalized from natural language math problems](https://arxiv.org/pdf/2406.03847v2)
+- Kind of like DeepSeek-Prover, but with extra steps
+- autoformalization model is trained to formalize, and also informalize (formal back to natural language)
+- very interesting, they use a larger model for data filtering
+    - after autoformalizing
+        - samples that don't compile are rejected
+        - then they translate the formalized samples back to natural language, and query the larger model to check if the natural language reconstruction is the same. Marked for human eval if not
+- marked samples usually have some pattern. They are modified and added back to training data
+
+#### [Towards Large Language Models as Copilots for Theorem Proving in Lean](https://arxiv.org/pdf/2404.12534)
+- tooling around hooking up LLMs to lean
+- good stuff
 
 [Updated July 10, 2024]
 #### [LeanDojo: Theorem Proving with Retrieval-Augmented Language Models](https://arxiv.org/pdf/2306.15626)
