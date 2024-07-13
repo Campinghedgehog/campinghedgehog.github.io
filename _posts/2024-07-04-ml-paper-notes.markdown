@@ -5,7 +5,7 @@ date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
 
-[Updated July 11, 2024]
+[Updated July 12, 2024]
 #### [Step-level Value Preference Optimization for Mathematical Reasoning](https://arxiv.org/pdf/2406.10858)
 - max margin loss needed in the SVPO, along with regularization of policy deviation from reference (as in PPO)
 - "However, the poor performance of “Policy” on the test set indicates that the implicit reward model (i.e., pol- icy model) is highly susceptible to overfitting."
