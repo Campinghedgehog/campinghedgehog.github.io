@@ -1,9 +1,48 @@
 ---
 layout: post
-title:  "Collection of notes/summary on random ML papers [Updated July 11, 2024]" 
+title:  "Collection of notes/summary on random ML papers [Updated July 12, 2024]" 
 date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
+
+[Updated July 11, 2024]
+#### [Step-level Value Preference Optimization for Mathematical Reasoning](https://arxiv.org/pdf/2406.10858)
+- max margin loss needed in the SVPO, along with regularization of policy deviation from reference (as in PPO)
+- "However, the poor performance of “Policy” on the test set indicates that the implicit reward model (i.e., pol- icy model) is highly susceptible to overfitting."
+- really a continuation of "AlphaMath Almost Zero" plus the auto-labelling of process supervision
+    - but MCTS tree is used for extract preferences between "correct" nodes and "incorrect" ones
+        - they detail in appendix
+- can use beam search during inference
+- lighter weight than PPO, since it uses preference pairs, so no reward model. Also value model is just a linear projection head as in the AlphaMath paper, so light weight
+- Different from DPO because value model
+
+#### [ReST-MCTS∗: LLM Self-Training via Process Reward Guided Tree Search](https://arxiv.org/pdf/2406.03816)
+- similar to "Improve Mathematical Reasoning in Language Models by Automated Process Supervision" below
+- but no binary search
+- few differences in value estimations
+- samples correct and incorrect trajectory pairs for cross entropy for policy model
+
+#### [Improve Mathematical Reasoning in Language Models by Automated Process Supervision](https://arxiv.org/pdf/2406.06592)
+- generates a process supervised model
+- data from a MCTS, estimating the state-action pairs with MCTS
+- during a roll-out, the proposed algo does a binary search
+    - Monte carlo score of 0 means first mistake
+- bias for steps that generate good score but end up wrong
+
+#### [AlphaMath Almost Zero: Process Supervision Without Process](https://arxiv.org/pdf/2405.03553)
+- the title kind of says it all
+- they use an LLM, append a linear layer for final output for value function
+    - so kind of like AlphaGo, where they use one model, two outputs for policy and model (so they can pass gradient signals into same latent space I guess)
+    - steps are either an "Answer" step that gives the answer or a "Code" step that gives code to run, which returns an output. Keep going until max steps reached or answer reached. 
+    - error from answer back proped through value
+    - for policy error, next token prediction error used wrt to a correct trajectory
+
+#### [Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B: A Technical Report](https://arxiv.org/pdf/2406.07394)
+- integrating monte carlo tree search with LLMs
+- value function is LLM itself
+    - they ask LLM to give some input a value, with bounds
+- moves are by "self-reflection", asking LLMs to reflect on its own answer
+- can't really further train model though, probably just a proof of concept
 
 [Updated July 11, 2024]
 #### [DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning](https://arxiv.org/pdf/2407.04078)
