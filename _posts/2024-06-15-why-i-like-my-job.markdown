@@ -3,7 +3,7 @@ layout: post
 title:  "Why I like my job" 
 date:   2024-06-15 10:40:33 -0700
 categories: 
-published: false
+published: true
 ---
 
 Writing this down before I forget.
@@ -108,9 +108,9 @@ It's chill.
 
 Learned some stuff.
 
-Compensation is okay.[^12]
+Compensation is okay.
 
-Worked with solid engineers, worked for solid managers.[^13]
+Worked with solid engineers, worked for solid managers.[^12]
 
 4 out of 5 stars.
 
@@ -130,5 +130,4 @@ Was about time to close this somewhat uneventful chapter. Gradient of excitement
 [^9]: Unclear whether scaling headcount that much is a categorically good thing, especially in software
 [^10]: not the rapper
 [^11]: 讓我煮飯!
-[^12]: More than Microsoft, Apple. Around the same or a little less than Google. Less than Facebook, Netflix, new FANGled startups, quant firms, NVIDIA (if you joined some years ago)
-[^13]: Not people managers, but great engineers turned managers out of necessity. Unfortunately, seems like these gems often choose to go back to being individual contributors (ICs) once orgs (and consequently intra-org politics) grow. 
+[^12]: Not people managers, but great engineers turned managers out of necessity. Unfortunately, seems like these gems often choose to go back to being individual contributors (ICs) once orgs (and consequently intra-org politics) grow. 
