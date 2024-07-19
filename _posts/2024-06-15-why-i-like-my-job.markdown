@@ -3,6 +3,7 @@ layout: post
 title:  "Why I like my job" 
 date:   2024-06-15 10:40:33 -0700
 categories: 
+published: false
 ---
 
 Writing this down before I forget.
