@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Essay] Exhuming Hilbert (work in progress)" 
-date:   2024-08-22 4:06:34 -0700
+date:   2024-08-21 4:06:34 -0700
 categories: 
 ---
 
