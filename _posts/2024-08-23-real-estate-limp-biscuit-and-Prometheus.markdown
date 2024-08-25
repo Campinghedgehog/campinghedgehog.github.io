@@ -23,9 +23,9 @@ List, Mises
 # [The Greeks](https://www.investopedia.com/trading/getting-to-know-the-greeks/){:target="_blank"} (reprise)
 
 # Not even Faustian
-at least, in tragedy, the stakes are high
+At least, in tragedy, the stakes are high. 
 
-<!-- And because I do not like cum, and only kind of like [wheat thins](https://youtube.com/shorts/No0aQPNDr58?feature=shared){:target="_blank"}, I must at this time decline the bargain. -->
+And because I do not like cum, and only kind of like [wheat thins](https://youtube.com/shorts/No0aQPNDr58?feature=shared){:target="_blank"}, I must at this time decline the bargain.
 
 # Mythos and language
 <!-- Form brotherhood. Fight dragons. Find God. -->
