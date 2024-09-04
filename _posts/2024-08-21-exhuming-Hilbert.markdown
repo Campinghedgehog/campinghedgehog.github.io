@@ -3,6 +3,7 @@ layout: post
 title:  "[Essay] Exhuming Hilbert (work in progress)" 
 date:   2024-08-21 4:06:34 -0700
 categories: 
+published: false
 ---
 
 Work in progress
@@ -14,6 +15,7 @@ Work in progress
 - ## Gödel, Church, Turing
 - ## SAT Solvers
 - ## Type Theory
+    - Curry-Howard Isomorphism
 
 # Present
 
@@ -41,12 +43,13 @@ Work in progress
 
 - ## 所以呢?
     - ### Discrete Program Synthesis
-        - #### Curry-Howard Isomorphism
     - ### Autoformalization
     - ### Verification
         - #### Software Verification
             - Rise of Rust
                 - Rust is child's play compared to dependently typed languages
+            - Industry mostly uses coverity and the like
+                - lots of false positives, pretty slow, simply not ergonomic. same with driver monitoring, there is this fatigue with false positive warnings. It's rules based, 
         - #### Hardware Verification
             - ##### How the sausage is made
                 - Verilog/ VHDL
