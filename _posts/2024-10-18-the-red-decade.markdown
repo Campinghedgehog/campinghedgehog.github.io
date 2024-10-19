@@ -16,7 +16,7 @@ Besides titillating the cosmopolitan sensibilities, Stalinism in America also su
 
 But *The Red Decade* was not really about Stalinism -- that is merely incidental. What Lyons really documented was the American cosmopolitan ethos, and its susceptibility to overindulge the [thymos](https://en.wikipedia.org/wiki/Thumos), something that is not unique to Stalinism.
 
-Lyons also describes the methods by which following the party line was enforced in America, some examples of which are quoted below. What is clear is that "cancellation" is not a modern phenomenon. Nor is "woke", or crazy idealistic college kids. This was almost 100 years ago.
+Lyons also describes the methods by which following the party line was enforced in America, some examples of which are quoted below. What is clear is that "cancellation" is not a modern phenomenon. Nor is "woke", or ideological college kids. This was almost 100 years ago.
 
 This is not to say that "wokeness" is rooted in Stalinism. That would be getting the cause and effect mixed up. It is a long-standing bug (or feature?) of the American, and now global minus Russia and China, elite. And the elite are not bad people. Quite to the contrary, they are usually more productive, healthier, smarter, more cultured, and overall just better people. How else does prestige come about?
 
