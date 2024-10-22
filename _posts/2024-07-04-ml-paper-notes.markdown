@@ -5,6 +5,11 @@ date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
 
+- https://arxiv.org/pdf/2410.04840 
+- https://arxiv.org/pdf/2410.06530
+- 
+
+
 [Updated July 12, 2024]
 #### [Step-level Value Preference Optimization for Mathematical Reasoning](https://arxiv.org/pdf/2406.10858)
 - max margin loss needed in the SVPO, along with regularization of policy deviation from reference (as in PPO)

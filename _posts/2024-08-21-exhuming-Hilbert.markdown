@@ -10,7 +10,7 @@ Work in progress
 [Updated August 22, 2024]
 
 # Past
-
+The foundations of mathematics 
 - ## Hilbert's Program
 - ## Gödel, Church, Turing
 - ## SAT Solvers
