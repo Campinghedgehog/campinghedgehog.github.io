@@ -4,6 +4,30 @@ title:  "Collection of notes/summary on random ML papers [Updated July 12, 2024]
 date:   2024-07-4 3:06:34 -0700
 categories: 
 ---
+# TODO
+- https://people.idsia.ch/~juergen/goedelmachine.html
+- https://arxiv.org/pdf/2306.05426
+- https://arxiv.org/pdf/2406.05183
+- https://arxiv.org/pdf/2311.08105
+- https://arxiv.org/pdf/2403.10616
+- https://arxiv.org/pdf/2407.07852
+- https://www.lifeiscomputation.com/breaking-free-from-neural-networks-and-dynamical-systems/#part3
+- https://arxiv.org/pdf/2203.14465
+- https://arxiv.org/pdf/2407.10583
+- https://arxiv.org/pdf/2407.08464
+- https://cdn.openai.com/prover-verifier-games-improve-legibility-of-llm-outputs/legibility.pdf
+- https://minihf.com/posts/2024-07-13-the-retroinstruct-guide-to-synthetic-text-data/
+- https://arxiv.org/abs/2407.12854
+- https://arxiv.org/pdf/2407.13755
+- https://people.idsia.ch/~juergen/deep-learning-history.html
+- https://arxiv.org/pdf/2407.15595
+- https://arxiv.org/abs/2407.12665
+- https://arxiv.org/pdf/2301.13142
+- https://arxiv.org/abs/2402.16359
+- https://arxiv.org/abs/2407.13734
+- https://arxiv.org/pdf/2404.10719
+- https://arxiv.org/pdf/2409.09232
+- 
 
 - https://arxiv.org/pdf/2410.04840 
 - https://arxiv.org/pdf/2410.06530

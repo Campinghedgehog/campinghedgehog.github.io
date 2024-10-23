@@ -73,3 +73,4 @@ published: False
         - "For in the modern era the notion that nature is the standard was abandoned, and therewith the stigma on whatever is conventional or contractual was taken away. As for premodern times, it is safe to assume that all contractualist doctrines implied the depreciation of whatever owed its origin to contract"
 
 ## Chapter 4: Classic Natural Right
+- 
