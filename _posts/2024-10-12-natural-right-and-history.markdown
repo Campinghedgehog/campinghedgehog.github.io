@@ -73,4 +73,25 @@ published: False
         - "For in the modern era the notion that nature is the standard was abandoned, and therewith the stigma on whatever is conventional or contractual was taken away. As for premodern times, it is safe to assume that all contractualist doctrines implied the depreciation of whatever owed its origin to contract"
 
 ## Chapter 4: Classic Natural Right
-- 
+- Socrates
+    - dialectics: from common sense, to contradictory views, to a consistent/comprehensive truth
+- The classical conception of Natural Right and the good life was conceived in disagreement with Hedonism (conventionalism whereby the good is equated with the pleasurable)
+- p. 132: "If restraint is as natural to man as is freedom, and restraint must in many cases be forcible restraint in order to be effective, one cannot say that the city is conventional or against nature because it is coercive society."
+- p. 142: "To summarize, one may say that it is characteristic of the classic natural right teaching to culminate in a twofold answer to the question of the best regime: the simply best regime would be the absolute rule of the wise; the practically best regime is the rule, under law, of gentlemen, or the mixed regime."
+- Classical understandings of Natural Right into 3 types: Platonic, Aristotelian, Thomistic
+- Platonic
+    - p 145: "justice is good and that justice consists in giving to everyone what is due to him."
+    - p 148: "But everyone does best that for which he is best fitted by nature. Justice exists, then, only in a society in which everyone does what he can do well and in which everyone has what he can use well. Justice is identical with membership in such a society and devotion to such a society—a society according to nature."
+    - but closed civil society must distinguish between friends and enemies, and the rules of conduct between them are diametrically opposed.
+        - --> "world state"
+- Aristotelian
+    - p. 156: according to Aristotle, there is no fundamental disproportion between natural right and the requirements of political society, or there is no essential need for the dilution of natural right.
+    - p 156: Plato eventually defines natural right with direct reference to the fact that the only life which is simply just is the life of the philosopher. Aristotle, on the other hand, treats each of the various levels of beings, and hence especially every level of human life, on its own terms.
+    - 160: A decent society will not go to war except for a just cause. But what it will do during a war will depend to a certain extent on what the enemy—possibly an absolutely unscrupulous and savage enemy—forces it to do. There are no limits which can be defined in advance, there are no assignable limits to what might become just reprisals.
+    - 160: It suffices to repeat that in extreme situations the normally valid rules of natural right are justly changed, or changed in accordance with natural right; the exceptions are as just as the rules.
+    - 161: Justice has two different principles or sets of principles: the requirements of public safety, or what is necessary in extreme situations to preserve the mere existence or independence of society, on the one hand, and the rules of justice in the more precise sense, on the other. And there is no principle which defines clearly in what type of cases the public safety, and in what type of cases the precise rules of justice, have priority.
+    - 162: The variability of the demands of that justice which men can practice was recognized not only by Aristotle but by Plato as well. Both avoided the Scylla of “absolutism” and the Charybdis of “relativism” by holding a view which one may venture to express as follows: There is a universally valid hierarchy of ends, but there are no universally valid rules of action.
+- Thomistic
+    - 157: According to Thomas Aquinas, this statement must be understood with a qualification: the principles of natural right, the axioms from which the more specific rules of natural right are derived, are universally valid and immutable; what are mutable are only the more specific rules
+    - 164: At any rate, the ultimate consequence of the Thomistic view of natural law is that natural law is practically inseparable not only from natural theology—i.e., from a natural theology which is, in fact, based on belief in biblical revelation—but even from revealed theology. Modern natural law was partly a reaction to this absorption of natural law by theology.
+    - 164: The modern efforts were partly based on the premise, which would have been acceptable to the classics, that the moral principles have a greater evidence than the teachings even of natural theology and, therefore, that natural law or natural right should be kept independent of theology and its controversies.
