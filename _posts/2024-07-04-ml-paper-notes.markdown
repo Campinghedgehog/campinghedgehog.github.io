@@ -31,7 +31,11 @@ categories:
 
 - https://arxiv.org/pdf/2410.04840 
 - https://arxiv.org/pdf/2410.06530
-- 
+
+- https://arxiv.org/abs/2410.01104
+- https://arxiv.org/abs/2410.17878
+- https://arxiv.org/abs/2410.17904
+
 
 
 [Updated July 12, 2024]
