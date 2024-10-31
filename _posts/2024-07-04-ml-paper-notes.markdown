@@ -37,6 +37,10 @@ categories:
 - https://arxiv.org/abs/2410.17904
 - https://arxiv.org/abs/2410.12928
 
+- SE(3)-Transformers: https://arxiv.org/pdf/2006.10503
+- https://arxiv.org/abs/2408.08252
+- https://huggingface.co/papers/2410.20280
+
 
 [Updated July 12, 2024]
 #### [Step-level Value Preference Optimization for Mathematical Reasoning](https://arxiv.org/pdf/2406.10858)
