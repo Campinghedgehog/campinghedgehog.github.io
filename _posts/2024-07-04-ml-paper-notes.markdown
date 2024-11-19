@@ -40,6 +40,11 @@ categories:
 - SE(3)-Transformers: https://arxiv.org/pdf/2006.10503
 - https://arxiv.org/abs/2408.08252
 - https://huggingface.co/papers/2410.20280
+- https://arxiv.org/pdf/2410.23214
+- https://arxiv.org/abs/2410.22573
+- https://arxiv.org/abs/2411.09595
+- https://arxiv.org/abs/2411.04928
+- https://arxiv.org/abs/2411.08033
 
 
 [Updated July 12, 2024]
