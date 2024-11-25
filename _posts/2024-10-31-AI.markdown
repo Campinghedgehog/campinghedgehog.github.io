@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "AI" 
+date:   2024-10-31 3:06:34 -0700
+categories: 
+published: False
+---
+
+## Part 1: The End of History
+## Kojéve 
+
+### Introduction to the Reading of Hegel
+- pg 5-6 definition of "Human Desire" as opposed to animal desire, and the prerequisite to self-consciousness is basically Girardian mimesis
+- 8: The necessity of Master and Slave, since if everyone fought to the death for recognition, there would be no one left to recognize the other
+- 
+
+### End of History and The Last Man
+- gives both an economic/scientific explanation but also Hegelian one for Liberal Democracy (freedom and equality)
+- 1) Our Pessimism:
+    - fall of the soviet union, especially abrupt, was taken by Fukuyama as a sign to be more optimistic about liberal democracy
+- 2) Weakness of Strong States I:
+    - 15: The critical weakness that eventually toppled these strong states was in the last analysis a failure of legitimacy—that is, a crisis on the level of ideas. Legitimacy is not justice or right in an ab­ solute sense; it is a relative concept that exists in people's subjec­ tive perceptions. All regimes capable of effective action must be based on some principle of legitimacy.1
+    - 17: Fascism suffered, one might say, from an internal con- tradiction: its very emphasis on militarism and war led it inevitably into a self-destructive conflict with the international system. A s a result, it has not been a serious ideological competitor to liberal democracy since the end of the Second World War.
+    - 18: Legitimate regimes have a fund of goodwill that excuses them from short-term mistakes, even serious ones, and failure can be expiated by the removal of a prime minister or cabinet. In illegit­ imate regimes, on the other hand, failure frequently precipitates an overturning of the regime itself.
+        - sacrifice/scapegoat
+    - To what extent was the apparent spread of democracy just the immense soft (backed by even larger hard) power of the United States?
+- 3) Weakness of Strong States II:
+    - 34: After the events of 1989,China has become just another Asian authoritarian state. It lacks internal legitimacy for a broad sector of its own elite, particularly among the young who will someday inherit the country, and is not guided by a coherent ideology. The PRC will no longer serve as a model for revolutionaries around the world, as it once did under Mao, all the more so when it is compared to the fast-growing capitalist states of the region.
+- 4) The Worldwide Liberal Revolution:
+    - 39: The absence of legitimate authority has meant that when an authoritarian government met with failure in some area of policy, there was no higher principle to which the regime could appeal. Some have compared legitimacy to a kind of cash reserve. All governments, democratic and authoritarian, have their ups and downs; but only legitimate governments have this reserve to draw on in times of crisis.
+        - could it be also the case that the "strong" governments simply weren't strong enough?
+    - 43: In judging which countries are democratic, we will use a strictly formal definition of democracy. A country is democratic if it grants its people the right to choose their own government through periodic, secret-ballot, multi-party elections,5 on the basis of universal and equal adult suffrage
+    - 45: But the fact that there will be setbacks and disappointments in the process of democratization, or that not every market economy will prosper, should not distract us from the larger pattern that is emerging in world history. The apparent number of choices that countries face in determining how they will organize themselves politically and economically has been diminishing over time. Of the different types of regimes that have emerged in the course of human history, from monarchies and aristocracies, to religious theocracies, to the fascist and communist dictatorships of this cen­ tury, the only form of government that has survived intact to the end of the twentieth century has been liberal democracy.
+    - 46: Despite the power demonstrated by Islam in its current re­ vival, however, it remains the case that this religion has virtually no appeal outside those areas that were culturally Islamic to begin with. The days of Islam's cultural conquests, it would seem, are over: it can win back lapsed adherents, but has no resonance for young people in Berlin, Tokyo, or Moscow. And while nearly a billion people are culturally Islamic—one-fifth of the world's population—they cannot challenge liberal democracy on its own territory on the level of ideas.9 Indeed, the Islamic world would seem more vulnerable to liberal ideas in the long run than the reverse, since such liberalism has attracted numerous and power­ ful Muslim adherents over the past century and a half. Part of the reason for the current, fundamentalist revival is the strength of the perceived threat from liberal, Western values to traditional Islamic societies.
+    - 48: It is true that democracies have been relatively rare in human history, so rare that before 1776 there was not a single one in existence anywhere in the world. [...] What is significant, however, is not the frequency or length of occurrence, but the trend: in the developed world, we would as little expect to see the disappearance of cities or cars in the near future as we would the re-emergence of slavery.
+- 5) An Idea for a Universal History:
+    - 62: While Hegel may not have been the first philosopher to write about history, he was the first historicist philosopher—that is, a philosopher who believed in the essential historical relativity of truth
+- 6) The Mechanism of Desire:
+    - 72: For without the possi­bility of a total historical forgetting, each successive cycle would build, if only in small ways, on the experiences of earlier ones.
+    - 73: The possibility of war is a great force for the rationalization of societies, and for the creation of uniform social structures across cultures. Any state that hopes to maintain its political autonomy is forced to adopt the technology of its enemies and rivals.
+        - not with Nukes. Once you have them it seems to be less so
+    - 81: If the discovery of modern natural science produces direc­tional history, the question naturally arises, Can it be un-invented? Can the scientific method cease to dominate our lives, and is it possible for industrialized societies to return to pre-modern, pre- scientific ones? Is the directionality of history, in short, reversible?
+        - Unabomber's answer: yes.
+- 7) No Barbarians at the Gate:
+    - Technology will always emerge as long as there are remnants or memory of it, leading to the same direction of history
+- 8) Accumulation Without End:
+    - Technology necessitates a capitalist/more free society vs managed economy
+    - requires market mechanisms
+- 9) The Victory of the VCR:
+    - shallow arguments against Mercantilism 
+    - Asian countries vs Latin American ones
+        - Asian countries did not practice protectionist stuff so developed much faster then Latin American ones
+        - What else other than economic policy could have been a big difference I wonder
+- 10) In the Land of Education
+    - Edge case: 112: The only apparent regional anomaly is the Middle East, which possesses no stable democracies, and yet contains a number of states with per capita incomes on a European or Asian level. But this is easily explained by oil: income from petroleum has permit­ ted states like Saudi Arabia, Iraq, Iran, and the UAE to acquire the trappings of modernity—automobiles, VCRs, Mirage fighter- bombers, and the like—without having had their societies go through the social transformations that come when such wealth is generated by the labor of their populations.
+    - 113: Democracy, according to this line of argument, is more func­ tional than dictatorship because many of the conflicts that develop between these emerging social groups have to be adjudicated ei­ ther in the legal system or, ultimately, in the political system.1 4 The market alone cannot determine the appropriate level and location of public infrastructure investment, or rules for the set­ tlement of labor disputes, or the degree of airline and trucking...
+        - Almost a Landian take, but concluded the wrong thing...
+    - 115: But once the regime's founders have passed on, there is no guarantee that their successors will enjoy a comparable degree of authority, or even that they will be mini­ mally competent at running the country.
+        - See Schmitt's "The Leviathan in the State Theory of Thomas Hobbes"
+    - 115: Under either the left-wing communist or right-wing authoritarian ver­ sions of this argument, democracy does not arise because anybody necessarily wants it, but rather as a byproduct of elite struggle.
+        - To what extent were the "democracies" that came out of the 20th century merely monarchies decaying into oligarchies under the legitimizing veil of "Democracy"?
+    - Modern natural science and economic development is insufficient to explain the move to liberal democracy, as (old) Taiwan's move to semicondunctors amd general semi-planned economies work to spur growth as well
+- 11) A Former Question Answered:
+    - 128: On the other hand, a Universal His­ tory need not justify every tyrannical regime and every war to expose a meaningful larger pattern in human evolution. The power and long-term regularity of that evolutionary process is not diminished if we admit that it was subject to large and apparently unexplainable discontinuities, any more than the biological theory of evolution is undermined by the fact of the sudden extinction of the dinosaurs.
+- 12) No Democracy without Democrats:
+    - How can we tell if history is at an end? When there are no more contradictions. How can we tell if there are no more contradictions? When the political system satisfies "man as man".
+- 13) In the Beginning, the Battle to the Death for Pure Prestige:
+    - 145: We inhabitants of liberal democratic countries are by now so used to accounts of current events that reduce motivation to economic causes, so thoroughly bourgeois in our own perceptions, that we are frequently surprised to discover how totally non-economic most political life is. Indeed, we do not even have a corrimon vocabulary for talking about the prideful and assertive side of human nature that is responsible for driving most wars and po­ litical conflicts. The "struggle for recognition" is a concept as old as political philosophy, and refers to a phenomenon coterminous with political life itself.
+        - Similar to Thiel, Fukuyama asserts that homo-economicus is insufficient
+- 14) The First Man:
+    - The difference between Hegel and Hobbes/Locke was his respect for the aristocratic master's way of life, which Hobbes and Locke both rejected
+- 15) A Vacation in Bulgaria:
+    - 
+
+
+## Part 2: The Straussian Moment
+- Straussian Moment
+    - It is curious why Thiel chose to focus on Locke instead of Hobbes
+        - Strauss appeared to have viewed Hobbes as the father of Liberalism, and not Locke. Locke was, in the final analysis, just a less autistic Hobbes (he knew his audience)
+        - Seems like Thiel's skepticism is with homo-economicus and not with Liberalism itself? He does call himself a "libertarian"
+    
+
+- it appears that political philosophy and AI have met
+    - Schmitt's The Age of Neutralizations and Depoliticizations (1929)
+        - Age of Techocity or smthing
+    - Curious inversion:
+        - Schmitt saw the complete power over nature as the sign of the Anti-Christ
+        - Thiel has commented that it's the decelerationists who keep preaching the end-times that appear more like the anti-christ
+        - seems like a lot are animated to accelerate due to the complete odiousness of the decels
+            - most are somewhat Aristotelian and seek to fulfill their noble capacities
+            - their direction is most away/against decels
+        - why are decels odious? Why do the odious want deceleration?
+        - Curious also in the way of Straussian empiricism (somewhere in Natural right and history, probably in the Classical chapter. Thomas? Revelation maybe)
+
+- Hidden Dialogue: "World history is not at an end"
+    - history starting once more?
+
+## Intermezzo: Industrial Society and its Future
+I promise we'll get to AI soon enough, but allow me this small detour.
+
+Central to Thiel's philosophy is progress, and in particular, progress embodied by technology. 
+
+There is another that thought about technology and its future.
+
+## Part 3: Techno-Capital
+- Andreesen's manifesto
+    - what's notably not mentioned is Strauss and Schmitt
+    - which is quite Straussian (the first rule of Strauss club is...)
+    - if we notice the slight contradiction at the end, i.e. "this is not political" but then declaring the enemy ("the high point of great politics is the clear recognition of the enemy as the enemy")
+    - It's hard to imagine Andreesen -- who's in the vicinity of Thiel -- not knowing what he's doing
+    - Does the anti-anti-christ == christ?
+    - Virulent Optimism
+
+
+- Where and how are the majority of DJI drones being deployed again?
+
+- It is a peculiarity why the meaning of life has been ascribed to simply "being happy". 
+
+
+
+
+History starting up once more:
+- End of history, progressing slowing to a halt, big tech companies hoarding cash (having no idea what to deploy it on) --> huge capex on GPUs and Infra etc.
+- Andreesen's friend-enemy distinction
+- Thiel's thesis of technology vs anti-thesis of the world-state/anti-christ, with no obvious synthesis..
+    - history has not ended just yet
+- Thiel the political philosopher, Andreesen the Political Theologian
+- are *you* not entertained?
