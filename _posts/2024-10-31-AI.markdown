@@ -14,6 +14,21 @@ published: False
 - 8: The necessity of Master and Slave, since if everyone fought to the death for recognition, there would be no one left to recognize the other
 - 
 
+For Hegel, what made man distinct from animals was his ability to desire that which does not exist, which for Hegel was another Desire. To desire another Desire is to want to have one's "values" recognized as another's "values" (pg 7). Even further, what makes man unique is the willingness to fight to the death for such recognition. The fight for recognition confers no biological, survivial, or natural value, and thus makes man unique, otherwise man would be no different to animal.
+
+The fight for recognition can end in three ways.
+- Both die, in which case, well, nothing much happens,
+- One dies, leaving the other unsatisfies since there is no one left to grant recognition,
+- One yields to the other.
+The latter is what kick starts the Hegel's Universal History.
+
+The Master-Slave dialectic begins when one yields to the other. The Master is the one who had the balls to risk his life for something completely useless, while the Slave chose not to do so. However, such a victory is still not fully satisfying for the Master, since even though he is recognized by another, the other has now become not quite his equal, and so such recognition is not really worth shit. 
+
+For Hegel, it is the Slave that drives History forwards. The Master is stuck in the same place. He may perhaps challenge other Masters to more fights to the death over recognition, but that would not change what he is: one who risks his life over recognition. It is only the Slave that may overcome himself. 
+
+Stoicism -> Skepticism -> Christianity -> Atheism (Universal Homogenuous State)
+
+
 ### End of History and The Last Man
 - gives both an economic/scientific explanation but also Hegelian one for Liberal Democracy (freedom and equality)
 - 1) Our Pessimism:
@@ -71,6 +86,40 @@ published: False
     - The difference between Hegel and Hobbes/Locke was his respect for the aristocratic master's way of life, which Hobbes and Locke both rejected
 - 15) A Vacation in Bulgaria:
     - 
+- 16) The Beast With Red Cheaks:
+    - 171: Thymos as it emerges in the Republic or in Havel's account of the
+    greengrocer constitutes something like an innate human sense of justice, and as such is the psychological seat of all the noble virtues like selflessness, idealism, morality, self-sacrifice, courage, and honorability. Thymos provides an all-powerful emotional support to the process of valuing and evaluating, and allows human beings to overcome their most powerful natural instincts for the sake of what they believe is right or just.
+    - Fukuyama brings attention to the very large part that *thymos* played in revolutions
+        - One can ask the Aristotelian question of whether this a lot of what we saw in the 20th century is an overstimulation of *thymos*, fomented by America's immense soft power (which is of course backed by even larger hard power). 
+        - Would the End of History apply if *thymos* was kept at a healthy moderation?
+- 17) The Rise and Fall of Thymos:
+    - 188: An American politician could harbor ambitions to be a Caesar or a Napoleon, but the system would allow him or her to be no more than a Jimmy Carter or Ronald Reagan—hemmed in by powerful institutional constraints and political forces on all sides, and forced to realize their ambition by being the people's "servant" rather than their master.
+        - FDR?
+- 18) Lordship and Bondage:
+    - Christianity as a psycology of Slaves. However its freedom could never be achieved in this life, but the next.
+    - As a synthesis between Particularity and Universality, out of which the "Individual" is born.
+        - Everyone is unique in the same way...
+- 19) The Universal and Homogenuous State:
+    - 199: For Hegel, the French Revolution was the event that took the Christian vision of a free and equal society, and implemented it here on earth. In making this revolution, the former slaves risked their lives, and in so doing proved that they had overcome the very fear of death that had served originally to define them as slaves.
+    - 200: "For Hegel, by contrast, liberal society is a reciprocal and equal agreement among citizens to mutually recognize each other. If Hobbesian or Lockean liberalism can be interpreted as the pursuit of rational self-interest, Hegelian "liberalism" can be seen as the pursuit of rational recognition, that is, recognition on a universal basis in which the dignity of each person as a free and autono­ mous human being is recognized by all. What is at stake for us when we choose to live in a liberal democracy is not merely the fact that it allows us the freedom to make money and satisfy the desiring parts of our souls. The more important and ultimately more satisfying thing it provides us is recognition of our dignity. Life in a liberal democracy is potentially the road to great material abundance, but it also shows us the way to the completely non- material end of recognition of our freedom. The liberal demo­ cratic state values us at our own sense of self-worth. Thus both the desiring and thymotic parts of our souls find satisfaction."
+    - 203: Popular self-government abolishes the distinction between masters and slaves; everyone is entitled to at least some share in the role of master. Mastery now takes the form of the promulgation of democratically determined laws, that is, sets of universal rules by which man self-consciously masters himself.
+        - What's the relationship between creditor and debtor? What are the only kind of loans that are not dischargeable in bankrupcy today? Who are the creditors of such loans?
+- 20) The Coldest of All Cold Monsters:
+    - 212: Other nations like Germany have had terrible diffi­ culties achieving stable democracy, despite their firm rooting in the W estern European tradition, while France, the birthplace of liberty and equality, has seen five different democratic republics come and go since 1789.These cases stand in sharp contrast to the experience of most democracies of Anglo-Saxon origin, which have had a relatively easy time maintaining the stability of their institutions.
+        - That's mostly because we don't number our republics... Lincoln, FDR...
+    - 213: Liberal democracy in its Anglo-Saxon variant represents the emergence of a kind of cold calculation at the expense of earlier moral and cultural horizons.
+        - Thiel would argue that it was less rational, and a more Girardian "sacrificial" explanation would explain the failures, i.e. the fruits of sacrifice are limited...
+    - 215: For democracy to work, however, citizens of democratic states must forget the instrumental roots of their values, and develop a certain irrational thymotic pride in their political system and a way of life.
+        - Forget the founding of the city. Incomptible with Girard?
+- 21) The Thymotic Origins of Work:
+    - Cultural, religious, "irrational thymos" explains the differences between liberal democracies
+- 22) Empires of Resentment, Empires of Deference:
+    - 240: In Japan, by contrast, society as a whole tends to regard itself as a single, large group with a single, stable source of authority. The emphasis on group harmony tends to push open confrontation to the fringes of politics; there is no alternation of political parties in power based on clashes over "issues," but rather the decades-long dominance of the Liberal Democratic party (LDP).
+        - Could it be because Japan was a conquered nation? Why does the US have troops in Okinawa again?
+- 23) The Unreality of "Realism":
+    - 
+
+Straussian Reading of Fukuyama: https://foreignpolicy.com/2022/12/18/francis-fukuyama-postmodern-radicalism-democracy/
 
 
 ## Part 2: The Straussian Moment
@@ -78,7 +127,19 @@ published: False
     - It is curious why Thiel chose to focus on Locke instead of Hobbes
         - Strauss appeared to have viewed Hobbes as the father of Liberalism, and not Locke. Locke was, in the final analysis, just a less autistic Hobbes (he knew his audience)
         - Seems like Thiel's skepticism is with homo-economicus and not with Liberalism itself? He does call himself a "libertarian"
+    - If Modernity and Liberalism is not working, the natural reaction is to go back to classical virtues. So then why were the classical virtues supplanted?     
+    - I see seems like Locke and the Enlightenment was a "sacrificing" of asking the questions of human nature as such questions caused too much violence (Girardian perspective)
+        - See Strauss's Work on Locke
+    - In some sense, an "End of History" is a kind of stagnation that is incompatible with Girardian revelation. Civilization will need to "outrun" such revelation, especially in the age of such violence multipliers (technology)
+
+    - Schmitt: 
+        - A natural science formulation of Schmitt's Political Theology could be something like: Given that there is nothing that is worthing dying for, what is the probability that such life is meaningful, fulfilling, and ultimately *human*?
+            - Though it's a formulation Schmitt would probably himself reject
+        
     
+
+Summary:
+For Thiel the End of History came to an abrupt end on September 11, 2001. 
 
 - it appears that political philosophy and AI have met
     - Schmitt's The Age of Neutralizations and Depoliticizations (1929)
